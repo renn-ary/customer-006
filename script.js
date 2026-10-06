@@ -11,9 +11,9 @@ document.addEventListener("DOMContentLoaded", function () {
     path: "Assets/Lottie/love.json",
   });
 
-  // Change Lottie color to Maroon
+  // Change Lottie color to Maroon #550000 on off-white background
   lottieContainer.style.filter =
-    "invert(11%) sepia(91%) saturate(5437%) hue-rotate(352deg) brightness(91%) contrast(116%)";
+    "invert(10%) sepia(43%) saturate(5727%) hue-rotate(344deg) brightness(79%) contrast(112%)";
 
   window.addEventListener("load", function () {
     setTimeout(() => {
